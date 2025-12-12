@@ -12,6 +12,10 @@
 
 ## Table of Contents
 - [Introduction](#introduction)  
+- [Getting Started](canvas_getting_started.md)  
+- [Navigating Courses](canvas_course_nav.md)  
+- [Submitting Assignments](canvas_submit_assignments.md)  
+- [Checking Grades](canvas_check_grades.md)  
 
 ---
 
