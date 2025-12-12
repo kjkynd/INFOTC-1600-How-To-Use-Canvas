@@ -16,6 +16,7 @@
 - [Navigating Courses](canvas_course_nav.md)  
 - [Submitting Assignments](canvas_submit_assignments.md)  
 - [Checking Grades](canvas_check_grades.md)  
+- [Communicating with Instructors](canvas_instructor_communication.md)  
 
 ---
 
