@@ -7,3 +7,13 @@
 **Summary:** This tutorial introduces Mizzou students to the Canvas Learning Management System (LMS). It covers logging in, navigating courses, submitting assignments, checking grades, and communicating with instructors.  
 
 **Target Audience:** College students new to Canvas, with little or no prior experience using online learning platforms.  
+
+---
+
+## Table of Contents
+- [Introduction](#introduction)  
+
+---
+
+## Introduction
+Canvas is the standard LMS at Mizzou.  It helps students access course materials, submit assignments, take quizzes, and interact with instructors. This tutorial will guide you step-by-step through the essential features you’ll use most often.
