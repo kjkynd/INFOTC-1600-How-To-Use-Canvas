@@ -27,7 +27,7 @@
 
 - Use the sidebar for quick access to:
   - **Account** (profile and settings)
-  - **Dashboard** (profile and settings)
+  - **Dashboard** (course cards, To Do list, & feedback)
   - **Courses** (shortcut links to active course with option to view all courses)
   - **Groups** (class/student groups & teams)
   - **Calendar** (deadlines and events)
