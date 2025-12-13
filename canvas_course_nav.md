@@ -6,9 +6,8 @@ Open a Course Homepage by clicking the **Course Card** on the **Dashboard** or c
 Each course has a homepage with announcements, modules, and links. Look for the **Modules** section to find weekly readings, lectures, and assignments.  The **Course Nav Menu** on the left gives immediate access to various course features.
 
 <img src="images/Course_Home.JPG" height="300" alt="Mizzou Canvas Course Home Page">
----
 
-## Key Features of Course Nav Manu (classes may not have all features)
+## Key Features of Course Nav Manu
 - **Announcements:** Updates from your instructor.
 - **Syllabus:** Course outline and policies.
 - **Modules:** Organized learning materials.
@@ -17,10 +16,9 @@ Each course has a homepage with announcements, modules, and links. Look for the 
 - **Quizzes:** Online tests and practice quizzes.
 - **Discussions:** Forums for class participation.
 
-Some classes have additional features in teh  in course nav bar
+Classes may not have all features listed.  Some classes support additional features.  Click through all the links to explore!
 
 ---
-
 
 ## Tips
 - Bookmark your most-used courses for quick access.
